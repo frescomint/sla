@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ceu{
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(0, #120c56, #000000);
+}
+.stars{
+    width: 3px;
+	height: 3px;
+	border-radius: 50%;
+	box-shadow:
+    50px 30px white,
+    100px 80px white,
+    80px 120px white,
+    300px 20px white,
+    250px 130px white,
+    200px 50px white,
+    150px 100px white,
+    320px 100px white,
+    650px 550px white,           
+    700px 45px white,
+    850px 85px white,
+    900px 150px white,
+    1050px 850px white,
+    1200px 985px white,
+    1350px 1000px white,
+    1450px 256px white,
+    1500px 234px white,
+    1650px 657px white,
+    1850px 900px white,
+    1900px 670px white,
+    1950px 870px white,
+    1769px 930px white,
+    976px 857px white,
+    1230px 670px white,
+    1320px 340px white,
+    766px 780px white,
+    890px 245px white,
+    30px 544px white,
+    67px 879px white,
+    78px 343px white,
+    960px 476px white,
+    890px 480px white,
+    1988px 5px white,
+    1700px 60px white,
+    1800px 70px white,
+    1000px 453px white;
+}
